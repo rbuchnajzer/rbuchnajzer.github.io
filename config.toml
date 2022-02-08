@@ -1,0 +1,4 @@
+baseURL = "https://roguerider.net/"
+languageCode = "en-us"
+title = "Rogue Rider Consulting Studios"
+theme = "ananke"
