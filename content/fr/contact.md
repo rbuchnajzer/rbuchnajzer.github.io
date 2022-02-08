@@ -9,6 +9,6 @@ menu: main
 ---
 
 
-This is the French contact page. This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service.
+Restez à l’écoute pour plus d’informations
 
 {{< form-contact action="https://example.com"  >}}
