@@ -11,4 +11,3 @@ menu: main
 
 Restez à l’écoute pour plus d’informations
 
-{{< form-contact action="https://example.com"  >}}
