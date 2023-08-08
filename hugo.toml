@@ -1,0 +1,4 @@
+baseURL = 'https://rbuchnajzer.github.io'
+languageCode = 'en-us'
+title = 'Rogue Rider Consulting Studios'
+theme = "PaperMod"
